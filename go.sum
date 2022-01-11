@@ -109,8 +109,9 @@ github.com/toolkits/concurrent v0.0.0-20150624120057-a4371d70e3e3 h1:kF/7m/ZU+0D
 github.com/toolkits/concurrent v0.0.0-20150624120057-a4371d70e3e3/go.mod h1:QDlpd3qS71vYtakd2hmdpqhJ9nwv6mD6A30bQ1BPBFE=
 github.com/wgsP/engine/v3 v3.4.5-0.20220107084517-3137f3e3b4bd h1:Gk9yYDQ3/8mMuZuzypzukWogphIs6jWRZ0kKzqjzx94=
 github.com/wgsP/engine/v3 v3.4.5-0.20220107084517-3137f3e3b4bd/go.mod h1:zAnaR7teKhC3A0MY+dH4+PK5VbsvHrZq4NOeDDaEXrE=
-github.com/wgsP/utils/v3 v3.0.6-0.20220107084152-5c4887f238cf h1:OUUHnF16AXeEjk2JNgNE6mujkoY9gM2J2r46J9nAFsk=
 github.com/wgsP/utils/v3 v3.0.6-0.20220107084152-5c4887f238cf/go.mod h1:PWbKNhzomsdeN/QfBtIIb+hyVPxx5xWJ0KLoCKbAdX0=
+github.com/wgsP/utils/v3 v3.0.6-0.20220111011111-23f1cc00a953 h1:QTTL6xLcvTgTvwUn91kMYIQwIXV7XJ0AFTGKZ4pGUQ0=
+github.com/wgsP/utils/v3 v3.0.6-0.20220111011111-23f1cc00a953/go.mod h1:PWbKNhzomsdeN/QfBtIIb+hyVPxx5xWJ0KLoCKbAdX0=
 go.uber.org/atomic v1.6.0 h1:Ezj3JGmsOnG1MoRWQkPBsKLe9DwWD9QeXzTRzzldNVk=
 go.uber.org/atomic v1.6.0/go.mod h1:sABNBOSYdrvTF6hTgEIbc7YasKWGhgEQZyfxyTvoXHQ=
 go.uber.org/multierr v1.5.0 h1:KCa4XfM8CWFCpxXRGok+Q0SS/0XBhMDbHHGABQLvD2A=
